@@ -1,0 +1,111 @@
+{
+  "drinks": [
+    {
+      "id": "martini",
+      "name": "Martini",
+      "description": "An ice-cold, refreshing classic.",
+      "recipe": "Mix 3 parts vodka & 1 part dry vermouth.",
+      "serve": "Serve very cold, straight up."
+    },
+    {
+      "id": "negroni",
+      "name": "Negroni",
+      "description": "A nice drink for a late night conversation.",
+      "recipe": "Mix equal parts of gin, Campari, and sweet vermouth.",
+      "serve": "Serve cold, either on the rocks or straight up."
+    },
+    {
+      "id": "gin-and-tonic",
+      "name": "Gin and Tonic",
+      "description": "Like regular tonic, but with gin.",
+      "recipe": "Mix 2 parts gin & 1 part tonic water.",
+      "serve": "Serve in a tall glass over ice, garnished with a lime wedge."
+    },
+    {
+      "id": "diet-coke",
+      "name": "Diet Coke",
+      "description": "Crisp!",
+      "recipe": "Open can.",
+      "serve": "Immediately."
+    },
+    {
+      "type": "drinks",
+      "name": "Pepsi",
+      "description": "Sweet!",
+      "recipe": "Open can.",
+      "serve": "Immediately.",
+      "id": "Z_41GdT"
+    },
+    {
+      "type": "drinks",
+      "name": "Fanta",
+      "description": "Sweet!",
+      "recipe": "Open can.",
+      "serve": "Immediately.",
+      "id": "9XHYk4K"
+    },
+    {
+      "type": "drinks",
+      "name": "Vodka Lemon",
+      "description": "The vodka lemon is prepared directly in a highball glass or in a large tumbler.",
+      "recipe": "Put 6-7 ice cubes in the glass, pour the vodka, lemonade and mix with a bar spoon.",
+      "serve": "Finally decorate with a slice of lemon and, if you prefer, add a few mint leaves. Your vodka lemon is ready to be served.",
+      "id": "SMkOSnA"
+    },
+    {
+      "type": "drinks",
+      "name": "Thai Iced Tea",
+      "description": "Thai Iced Tea is a creamy and refreshing mildly spiced sweet tea made from Thai tea mix (or black tea), milk, and sugar.",
+      "recipe": "Combine Thai tea (i.e., the powder), boiling water, and sweetened condensed milk, stir until blended.",
+      "serve": "Pour into 2 tall glasses filled with ice cubes. Garnish with mint leaves. Makes 2 servings.",
+      "id": "NzYWVzc"
+    },
+    {
+      "type": "drinks",
+      "name": "Screwdriver",
+      "description": "This simple mixture of vodka and orange juice reportedly gets its name from the original tool used to stir the drink - a screwdriver.",
+      "recipe": "Combine orange juice and vodka in a highball glass and stir to combine.",
+      "serve": "Add ice. Enjoy!",
+      "id": "kTm7Jau"
+    }
+  ],
+  "snacks": [
+    {
+      "id": "nachos",
+      "name": "Nachos",
+      "description": "An American classic!",
+      "recipe": "Cover expensive, organic tortilla chips with Cheez Whiz.",
+      "serve": "Serve in a hand-thrown ceramic bowl, garnished with canned black olives"
+    },
+    {
+      "id": "hummus",
+      "name": "Hummus",
+      "description": "Sure to impress your vegan friends!",
+      "recipe": "Purchase one container of hummus.",
+      "serve": "Place unceremoniously on the table, along with pita bread."
+    },
+    {
+      "id": "arugula-and-walnut-salad",
+      "name": "Arugula and Walnut Salad",
+      "description": "Tart and delicious.",
+      "recipe": "Mix arugula, toasted walnuts, and thinly-sliced Parmesan cheese. Dress with lemon and olive oil.",
+      "serve": "Place on tiny, precious little plates."
+    },
+    {
+      "type": "snacks",
+      "name": "Grilled Peanut Butter and Jelly Sandwich",
+      "description": "This is peanut butter and jelly with a twist. The kids will thank you!",
+      "recipe": "Spread butter on one side of each slice of bread. Spread jelly on the unbuttered side of one slice of bread; spread peanut butter on the other unbuttered side.",
+      "serve": "Place bread slices together, so peanut butter and jelly are in the middle.",
+      "id": "gjU7RTb"
+    },
+    {
+      "type": "snacks",
+      "name": "Po Boy Sandwich",
+      "description": "This delectable easy Po Boy Sandwich also know as a Poor Boy sandwich combines ham, Swiss, shredded lettuce, tomatoes and pickles all on soft french bread spread with an easy three ingredient mayo.",
+      "recipe": "First in a small bowl mix the mayo, mustard and sriracha and set aside.  Then slice a short loaf of soft French bread lengthwise. Place on a baking sheet cut side up. Layer thin ham slices on the bottom side and top with cheese slices. Add more cheese slices to the top and bake for several minutes until the cheese is melted and the ham is warm.  Turn the broiler on the last minute of baking just to brown the cheese a bit.",
+      "serve": "Remove from oven and top with shredded lettuce, tomato slices, pickles, red onion, peperoncinis and the mayo sauce. Place both sides of the sandwich together and cut into desired lengths. Serve promptly while the sandwich is warm and gooey.",
+      "id": "nQsMS3u"
+    }
+  ]
+}

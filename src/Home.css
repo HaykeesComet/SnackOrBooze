@@ -1,0 +1,44 @@
+h1 {
+  color: orange;
+}
+
+h3 {
+  color: yellow;
+}
+
+h4 {
+  color: orange;
+}
+
+h5 {
+  color: hotpink;
+}
+
+p {
+  color: yellow;
+}
+
+label, input, button {
+  margin: 5px;
+}
+
+/* unvisited link */
+a:link {
+    color: white;
+  }
+  
+/* visited link */
+a:visited {
+  color: white;
+}
+  
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+  
+/* selected link */
+a:active {
+  color: white;
+}
+  
