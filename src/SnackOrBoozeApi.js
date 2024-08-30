@@ -1,5 +1,6 @@
 import axios from "axios";
-const BASE_API_URL = "https://your-json-server-url.onrender.com";
+const BASE_API_URL = process.env.REACT_APP_BASE_API_URL;
+
 
 class SnackOrBoozeApi {
   static async getSnacks() {
