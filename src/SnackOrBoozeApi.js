@@ -1,5 +1,5 @@
 import axios from "axios";
-const BASE_API_URL = "http://localhost:5000";
+const BASE_API_URL = "https://your-json-server-url.onrender.com";
 
 class SnackOrBoozeApi {
   static async getSnacks() {
