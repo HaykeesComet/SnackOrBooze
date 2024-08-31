@@ -1,5 +1,5 @@
 import axios from "axios";
-const BASE_API_URL = process.env.REACT_APP_BASE_API_URL;
+const BASE_API_URL = "https://snack-or-booze-json-server.onrender.com";
 
 
 class SnackOrBoozeApi {
